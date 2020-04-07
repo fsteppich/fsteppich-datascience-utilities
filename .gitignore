@@ -6,14 +6,5 @@
 .idea/shelf
 .idea/usage.statistics.xml
 .idea/workspace.xml
-/config
-/out
-/python/helpers/.idea
-/system
-/test-config
-/test-system
-build/dependencies/.gradle
-build/dependencies/build
-edu/dependencies/.gradle
-edu/dependencies/build
-stale_outputs_checked
+/dist
+/fs_ds_util.egg-info
