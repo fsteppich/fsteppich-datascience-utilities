@@ -15,8 +15,9 @@ reusing as much code as possible.
 ## Installation and Dependencies<a name="installation"></a>
 The project is running with Python 3. These libraries are required: 
 
-* Pandas
-* Inspect 
+* pandas
+* inspect 
+* importlib.resources
 
 ## Motivation for the project<a name="motivation"></a>
 To reduce the time required to copy and adapt,  code with common functionality, 
