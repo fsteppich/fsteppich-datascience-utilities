@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='fs_ds_util',
-      version='0.2',
+      version='0.3',
       description='FSteppich Data Science Utilities',
       packages=['fs_ds_util', 'fs_ds_util/tests'],
       url="https://github.com/fsteppich/fsteppich-datascience-utilities",
